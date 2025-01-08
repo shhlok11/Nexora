@@ -1,8 +1,21 @@
-# React + Vite
+Core Features
+Natural Language Understanding (NLU)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Responds to user queries with human-like fluency.
+Understands complex questions and provides accurate answers.
+Context Awareness
 
-Currently, two official plugins are available:
+Maintains context across conversations for seamless interactions.
+Remembers user preferences for personalized experiences.
+Multi-Purpose Conversations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Assists with cryptocurrency-related queries using the Gemini API.
+Engages in general chat for entertainment, advice, or casual conversation.
+Conversational Trading Support
+
+Guides users through trading cryptocurrencies with intuitive dialogues.
+Explains trading concepts and helps execute trades directly.
+Emotion Recognition
+
+Adapts tone and responses based on user sentiment.
+Provides empathetic and supportive interactions.
